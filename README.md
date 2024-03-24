@@ -17,7 +17,7 @@ Follow these steps to get the project up and running on your local machine:
 
 1. **Clone the GitHub repository**
    ```bash
-   git clone https://github.com/yourusername/django-cookiecutter-template.git
+   git clone https://github.com/yourusername/Django-CookieCutter.git
    ```
 2. **Create a Python virtual environment**
    ```bash
