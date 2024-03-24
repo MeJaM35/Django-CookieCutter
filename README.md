@@ -40,7 +40,7 @@ Follow these steps to get the project up and running on your local machine:
    ```bash
    python manage.py runserver
    ```
-Now, you should be able to see the application running at `localhost:8000` in your web browser. Enjoy coding!
+Now, you should be able to see the application running at `127.0.0.1:8000` in your web browser. Enjoy coding!
 
 ## Customizing the Template
 
