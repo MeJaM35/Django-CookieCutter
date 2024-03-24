@@ -50,9 +50,6 @@ You can customize this template to suit your needs. For example, you can add or 
 
 Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) before getting started.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
