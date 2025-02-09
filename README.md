@@ -40,6 +40,28 @@ Follow these steps to get the project up and running on your local machine:
    ```bash
    python manage.py runserver
    ```
+
+###Alternatively, Use Docker:
+
+1. **Clone the GitHub repository**
+   ```bash
+   git clone https://github.com/yourusername/Django-CookieCutter.git
+   ```
+
+2. **Navigate to the github repository**
+   ```bash
+   cd some/filepath/Django-CookieCutter
+   ```
+
+3. **Build the image**
+   ```bash
+   docker build -t image-name
+   ```
+
+4. **Run the Container**
+   ```bash
+   docker run -p 8000:8000 image-name
+
 Now, you should be able to see the application running at `127.0.0.1:8000` in your web browser. Enjoy coding!
 
 ## Customizing the Template
