@@ -41,7 +41,7 @@ Follow these steps to get the project up and running on your local machine:
    python manage.py runserver
    ```
 
-###Alternatively, Use Docker:
+### Alternatively, Use Docker:
 
 1. **Clone the GitHub repository**
    ```bash
